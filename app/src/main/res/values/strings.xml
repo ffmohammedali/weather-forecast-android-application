@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherForecastApp</string>
+    <string name="type_here">type here</string>
+    <string name="_10">10</string>
+    <string name="search">search</string>
+    <string name="settings">settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
